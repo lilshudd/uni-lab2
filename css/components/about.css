@@ -1,0 +1,63 @@
+.about-section {
+  margin-top: 122px;
+  max-width: 778px;
+}
+
+.about-title {
+  margin-bottom: 38px;
+}
+
+.desc-about {
+  margin-bottom: 64px;
+  line-height: 1.6;
+}
+
+.experience-list,
+.education-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.experience-item,
+.education-item {
+  border-bottom: 1px solid #ddd;
+  padding: 20px 0;
+  margin-bottom: 35px;
+}
+
+.position,
+.institution {
+  margin-bottom: 10px;
+}
+
+.company,
+.period {
+  font-size: small;
+  color: #a7a7a7;
+  margin-bottom: 5px;
+}
+
+.status {
+  display: inline-block;
+  padding: 10px 25px;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  color: #018c0f;
+  font-weight: 600;
+}
+
+.full-time {
+  background-color: #d7ffe0;
+}
+
+.internship {
+  background-color: #d7ffe0;
+}
+
+.container-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}

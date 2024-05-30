@@ -1,0 +1,10 @@
+.tech-stack-section .list-tech {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.tech-stack-section .list-tech > * {
+  flex-shrink: 0;
+  width: 15%;
+  margin-bottom: 30px;
+}
